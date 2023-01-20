@@ -11,7 +11,7 @@ exclude = '''
   | \.vscode
   | \.tox
   | \.pytest_cache
-  | \.venv
+  | env
   | .*\.egg-info
 )/
 '''
